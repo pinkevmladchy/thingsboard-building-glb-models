@@ -9,6 +9,7 @@ alarms and open the floor when it is clicked.
 | File | Footprint | Floors | URL for the widget |
 |---|---|---|---|
 | `models/harbor_point_rect_4f.glb` | rectangle 36 × 24 m | 4 | `https://raw.githubusercontent.com/pinkevmladchy/thingsboard-building-glb-models/main/models/harbor_point_rect_4f.glb` |
+| `models/harbor_point_hotel_2f.glb` | rectangle, 4 rooms per floor (one mesh per room) | 2 | `https://raw.githubusercontent.com/pinkevmladchy/thingsboard-building-glb-models/main/models/harbor_point_hotel_2f.glb` |
 
 Meshes: `Floor.001` … `Floor.004` (bound to Floor assets), `Slabs`, `Window_Frames`, `Windows`, `Roof_Plant` (decoration).
 
